@@ -1,4 +1,4 @@
-const apiUrl = "http://18.215.183.183:5000"; // Cambia si usas IP pública
+const apiUrl = "http://44.194.201.223:5000"; // Cambia si usas IP pública
 
 const statusMap = {
   1: "Adelante",
